@@ -1,4 +1,3 @@
-#Test comment
 from tkinter import * #importing all the classes and methods of tkinter module
 import random
 import ttkthemes
